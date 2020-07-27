@@ -1,0 +1,2 @@
+# scala
+Pratica com Scala
